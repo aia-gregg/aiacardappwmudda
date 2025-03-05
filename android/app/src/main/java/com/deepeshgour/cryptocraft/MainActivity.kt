@@ -1,4 +1,4 @@
-package com.deepeshgour.aia-pay
+package com.aianalysisgrou.aiapay
 
 import android.os.Build
 import android.os.Bundle

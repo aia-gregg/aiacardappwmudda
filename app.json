@@ -17,7 +17,7 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "bundleIdentifier": "com.aianalysisgroup.aia-pay",
+      "bundleIdentifier": "com.aianalysisgroup.aiapay",
       "supportsTablet": true,
       "infoPlist": {
         "NSPhotoLibraryUsageDescription": "We need access to your photo library so you can upload a profile picture."
@@ -28,7 +28,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.aianalysisgroup.aia-pay",
+      "package": "com.aianalysisgroup.aiapay",
       "permissions": [
         "READ_EXTERNAL_STORAGE",
         "WRITE_EXTERNAL_STORAGE"
