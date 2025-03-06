@@ -1,4 +1,4 @@
-package com.aianalysisgrou.aiapay
+package com.deepeshgour.cryptocraft
 
 import android.app.Application
 import android.content.res.Configuration

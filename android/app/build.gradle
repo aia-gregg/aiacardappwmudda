@@ -86,9 +86,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.aianalysisgroup.aiapay'
+    namespace 'com.deepeshgour.cryptocraft'
     defaultConfig {
-        applicationId 'com.aianalysisgroup.aiapay'
+        applicationId 'com.deepeshgour.cryptocraft'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

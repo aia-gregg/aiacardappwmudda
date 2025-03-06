@@ -24,7 +24,7 @@
         <action android:name="android.intent.action.VIEW"/>
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
-        <data android:scheme="com.aianalysisgrou.aiapay"/>
+        <data android:scheme="com.deepeshgour.cryptocraft"/>
       </intent-filter>
     </activity>
   </application>
